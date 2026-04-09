@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Manuel's Glass",
+    "phone": "+15624378778",
+    "category": "window replacement company",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Long Beach Window Experts",
+      "heroSubline": "Premium window replacement and installation services for Long Beach and surrounding areas. Enhance your home’s value and energy efficiency today.",
+      "aboutTitle": "Crafting Quality, One Window at a Time",
+      "aboutText": [
+        "Manuel's Glass started as a small, family-run operation right here in Long Beach. We saw a need for reliable, high-quality window replacement services that understood the unique challenges of our coastal climate and the diverse architecture of our neighborhoods.",
+        "Our approach is simple: treat every home as if it were our own. We prioritize clear communication, meticulous workmanship, and using only the best materials suited for the Long Beach environment. From initial consultation to final installation, we ensure a seamless and stress-free experience.",
+        "We're deeply committed to the Long Beach community. We actively support local initiatives and strive to minimize our environmental impact. Choosing Manuel's Glass means choosing a partner who cares about the long-term well-being of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Long Beach architecture and weather patterns, ensuring optimal window selection and installation."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We source only the highest-quality windows designed to withstand the coastal environment and intense UV exposure."
+        },
+        {
+          "title": "Precision Installation",
+          "description": "Our skilled technicians guarantee a perfect fit and finish, maximizing energy efficiency and longevity."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear, upfront quotes with no hidden fees, ensuring peace of mind throughout the project."
+        }
+      ],
+      "ctaHeadline": "Upgrade Your View Today",
+      "ctaSubline": "Request a free consultation and discover the difference new windows can make."
+    },
+    "services": [
+      {
+        "slug": "residential-window-replacement",
+        "name": "Residential Window Replacement",
+        "shortDescription": "Enhance your home's beauty and efficiency with our professional residential window replacement services.",
+        "description": "Manuel's Glass specializes in residential window replacement, catering to the diverse architectural styles found throughout Long Beach, from the classic Craftsman bungalows of Belmont Shore to the modern condos near Shoreline Village. We understand the importance of selecting the right windows to complement your home's aesthetic while providing superior energy efficiency and protection from the elements. Our team will guide you through the selection process, considering factors like window type (double-hung, casement, sliding), frame material (vinyl, wood, aluminum), and glass options (low-E, tempered, laminated) to ensure optimal performance and longevity. We handle every aspect of the project, from precise measurements and removal of old windows to expert installation and meticulous cleanup. We also address specific Long Beach concerns like soundproofing for homes near busy streets and UV protection to prevent fading of interior furnishings. Trust Manuel's Glass to transform your home with beautiful, energy-efficient windows that enhance its value and comfort.",
+        "process": [
+          "Step 1: In-Home Consultation: We assess your needs and provide a detailed quote.",
+          "Step 2: Window Selection: Choose from our wide range of high-quality windows.",
+          "Step 3: Professional Installation: Our skilled team ensures a precise and efficient installation.",
+          "Step 4: Final Inspection: We ensure your complete satisfaction with the finished project."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Enhanced home aesthetics",
+          "Increased property value",
+          "Reduced noise pollution"
+        ],
+        "faq": [
+          {
+            "question": "How long does a typical window replacement project take?",
+            "answer": "Most residential window replacement projects take between one to three days, depending on the number of windows and the complexity of the installation. We always strive to minimize disruption to your daily routine."
+          },
+          {
+            "question": "What type of windows are best for energy efficiency in Long Beach?",
+            "answer": "Low-E glass windows with insulated frames are highly recommended for Long Beach homes. They help reduce heat transfer, keeping your home cooler in the summer and warmer in the winter, which can lead to significant energy savings."
+          },
+          {
+            "question": "Do you offer any warranties on your window replacement services?",
+            "answer": "Yes, we offer comprehensive warranties on both the windows themselves and our installation services. We stand behind our workmanship and are committed to ensuring your complete satisfaction."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-window-replacement",
+        "name": "Commercial Window Replacement",
+        "shortDescription": "Upgrade your business with energy-efficient and durable commercial window replacement solutions.",
+        "description": "Manuel's Glass provides commercial window replacement services tailored to the unique needs of businesses in Long Beach. Whether you own a retail storefront in Belmont Shore, an office building downtown, or a restaurant in Shoreline Village, we can help you improve your building's aesthetics, energy efficiency, and security. We offer a wide range of commercial-grade windows, including storefront windows, curtain walls, and impact-resistant windows, designed to withstand heavy use and provide long-lasting performance. Our team has extensive experience working with commercial properties and understands the importance of minimizing disruption to your business operations. We work closely with you to develop a customized window replacement plan that meets your specific requirements and budget. We also handle all necessary permits and inspections, ensuring a smooth and hassle-free project. With Manuel's Glass, you can enhance your business's image, reduce energy costs, and create a more comfortable and inviting environment for your employees and customers.",
+        "process": [
+          "Step 1: Site Assessment: We evaluate your commercial property and discuss your specific needs.",
+          "Step 2: Customized Plan: We develop a window replacement plan tailored to your business.",
+          "Step 3: Professional Installation: Our experienced team ensures a precise and efficient installation.",
+          "Step 4: Project Completion: We conduct a final inspection to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Improved building aesthetics",
+          "Increased energy efficiency",
+          "Enhanced security",
+          "Reduced noise pollution"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial windows do you offer?",
+            "answer": "We offer a wide range of commercial windows, including storefront windows, curtain walls, impact-resistant windows, and energy-efficient windows. We can help you select the best windows for your specific needs and budget."
+          },
+          {
+            "question": "Do you handle all necessary permits and inspections?",
+            "answer": "Yes, we handle all necessary permits and inspections, ensuring a smooth and hassle-free commercial window replacement project."
+          },
+          {
+            "question": "How can commercial window replacement benefit my business?",
+            "answer": "Commercial window replacement can improve your building's aesthetics, increase energy efficiency, enhance security, and reduce noise pollution, creating a more comfortable and inviting environment for your employees and customers."
+          }
+        ]
+      },
+      {
+        "slug": "window-repair",
+        "name": "Window Repair Services",
+        "shortDescription": "Fast and reliable window repair services to restore the functionality and appearance of your windows.",
+        "description": "Don't replace when you can repair! Manuel's Glass offers comprehensive window repair services to address a wide range of issues, from cracked glass and broken seals to damaged frames and malfunctioning hardware. We understand that damaged windows can compromise your home's security, energy efficiency, and curb appeal. Our skilled technicians have the expertise to diagnose and repair all types of windows, including single-pane, double-pane, and specialty windows. We use only high-quality replacement parts and materials to ensure long-lasting repairs. Whether you need a simple glass replacement or a more complex frame repair, we can provide a cost-effective solution to restore your windows to their original condition. We proudly serve Long Beach residents, understanding the unique challenges presented by older homes and the coastal climate. We'll assess the damage and provide an honest recommendation, prioritizing repair whenever possible to save you money.",
+        "process": [
+          "Step 1: Window Inspection: We thoroughly assess the damage to your window.",
+          "Step 2: Repair Recommendation: We provide a detailed repair plan and cost estimate.",
+          "Step 3: Professional Repair: Our skilled technicians perform the necessary repairs.",
+          "Step 4: Quality Check: We ensure the repair is completed to your satisfaction."
+        ],
+        "benefits": [
+          "Cost-effective solution",
+          "Extended window lifespan",
+          "Improved energy efficiency",
+          "Enhanced security"
+        ],
+        "faq": [
+          {
+            "question": "Is it always better to replace a window than repair it?",
+            "answer": "Not always. If the damage is minor and the frame is in good condition, repair is often a more cost-effective option. We will always provide an honest assessment and recommend the best solution for your specific situation."
+          },
+          {
+            "question": "What types of window damage can you repair?",
+            "answer": "We can repair a wide range of window damage, including cracked glass, broken seals, damaged frames, malfunctioning hardware, and condensation between panes."
+          },
+          {
+            "question": "How long does a typical window repair take?",
+            "answer": "Most window repairs can be completed within a few hours, depending on the extent of the damage and the availability of replacement parts."
+          }
+        ]
+      },
+      {
+        "slug": "custom-window-installation",
+        "name": "Custom Window Installation",
+        "shortDescription": "Create unique and stunning windows with our custom window installation services.",
+        "description": "Manuel's Glass specializes in custom window installation, allowing you to create unique and stunning windows that perfectly complement your home's architecture and your personal style. Whether you're building a new home in Naples or renovating an existing property in Bixby Knolls, we can help you design and install custom windows that meet your specific needs and aesthetic preferences. We offer a wide range of custom window options, including arched windows, bay windows, picture windows, and stained-glass windows. Our team works closely with you to understand your vision and create a custom window design that is both beautiful and functional. We use only the highest-quality materials and craftsmanship to ensure that your custom windows are built to last. Enhance your Long Beach home with windows that reflect your individuality and enhance its curb appeal.",
+        "process": [
+          "Step 1: Design Consultation: We discuss your vision and create a custom window design.",
+          "Step 2: Material Selection: Choose from our wide range of high-quality materials.",
+          "Step 3: Custom Fabrication: We fabricate your custom windows to your exact specifications.",
+          "Step 4: Professional Installation: Our skilled team ensures a precise and seamless installation."
+        ],
+        "benefits": [
+          "Unique and stunning windows",
+          "Perfectly complements your home's architecture",
+          "Increased property value",
+          "Personalized style"
+        ],
+        "faq": [
+          {
+            "question": "What types of custom windows do you offer?",
+            "answer": "We offer a wide range of custom window options, including arched windows, bay windows, picture windows, stained-glass windows, and more. We can create virtually any window design you can imagine."
+          },
+          {
+            "question": "How long does it take to fabricate custom windows?",
+            "answer": "The fabrication time for custom windows depends on the complexity of the design and the availability of materials. We will provide you with a realistic timeline during the design consultation."
+          },
+          {
+            "question": "Are custom windows more expensive than standard windows?",
+            "answer": "Yes, custom windows are typically more expensive than standard windows due to the specialized design and fabrication process. However, the added value and unique aesthetic appeal of custom windows can make them a worthwhile investment."
+          }
+        ]
+      },
+      {
+        "slug": "glass-door-installation",
+        "name": "Glass Door Installation",
+        "shortDescription": "Enhance your home's natural light and style with our expert glass door installation services.",
+        "description": "Manuel's Glass provides professional glass door installation services for Long Beach homeowners looking to enhance their homes with natural light and modern style. We install a variety of glass doors, including sliding glass doors, French doors, and patio doors, tailored to suit different architectural styles and functional needs. Our team understands the importance of proper installation to ensure energy efficiency, security, and smooth operation. We handle every aspect of the project, from precise measurements and removal of old doors to expert installation and meticulous finishing. We also address specific Long Beach concerns like weatherproofing for coastal homes and security features for enhanced protection. With Manuel's Glass, you can transform your living space with beautiful and functional glass doors that enhance your home's value and comfort.",
+        "process": [
+          "Step 1: Consultation and Measurement: We assess your needs and take precise measurements.",
+          "Step 2: Door Selection: Choose from our wide range of high-quality glass doors.",
+          "Step 3: Professional Installation: Our skilled team ensures a seamless and secure installation.",
+          "Step 4: Final Inspection: We ensure your complete satisfaction with the finished project."
+        ],
+        "benefits": [
+          "Increased natural light",
+          "Enhanced home aesthetics",
+          "Improved energy efficiency",
+          "Seamless indoor-outdoor living"
+        ],
+        "faq": [
+          {
+            "question": "What types of glass doors do you install?",
+            "answer": "We install a variety of glass doors, including sliding glass doors, French doors, and patio doors. We can help you select the best door for your specific needs and style."
+          },
+          {
+            "question": "How long does glass door installation take?",
+            "answer": "Glass door installation typically takes one to two days, depending on the complexity of the project."
+          },
+          {
+            "question": "Do you offer warranties on your glass door installation services?",
+            "answer": "Yes, we offer comprehensive warranties on both the glass doors themselves and our installation services."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-window-services",
+        "name": "Emergency Window Services",
+        "shortDescription": "24/7 emergency window repair and replacement services to secure your property quickly.",
+        "description": "Manuel's Glass provides 24/7 emergency window repair and replacement services to quickly secure your Long Beach property after damage. Whether it's a break-in, storm damage, or accidental breakage, we understand the urgency of securing your home or business. Our team is available around the clock to provide fast and reliable service. We'll board up the damaged area, remove broken glass, and install a temporary or permanent replacement window to restore security and protect your property from the elements. We work quickly and efficiently to minimize disruption and ensure your peace of mind. We prioritize emergency situations and strive to provide the fastest response times in Long Beach, particularly in neighborhoods like Belmont Shore and Naples where coastal weather can exacerbate damage.",
+        "process": [
+          "Step 1: Emergency Call: Contact us 24/7 for immediate assistance.",
+          "Step 2: Rapid Response: Our team arrives quickly to assess the damage.",
+          "Step 3: Secure the Area: We board up the damaged area to prevent further damage.",
+          "Step 4: Window Replacement: We install a temporary or permanent replacement window."
+        ],
+        "benefits": [
+          "24/7 availability",
+          "Fast response times",
+          "Secure your property quickly",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What should I do if my window is broken during a break-in?",
+            "answer": "Your safety is our priority. Call the police first, then contact us for emergency window repair and replacement services."
+          },
+          {
+            "question": "How quickly can you respond to an emergency window repair request?",
+            "answer": "We strive to respond to emergency window repair requests within one hour, depending on your location in Long Beach."
+          },
+          {
+            "question": "Do you offer temporary window coverings?",
+            "answer": "Yes, we offer temporary window coverings, such as board-up services, to secure your property while we prepare a permanent replacement."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Los Angeles",
+        "slug": "los-angeles-ca",
+        "state": "CA",
+        "content": "Manuel's Glass is proud to offer window replacement services to the residents of Los Angeles. From the Hollywood Hills to Downtown LA, we understand the unique architectural styles that define this vibrant city. We specialize in providing window solutions that complement the iconic 1920s Spanish Colonial Revival homes found throughout Los Angeles, ensuring your replacement windows enhance both the beauty and energy efficiency of your property.\n\nLos Angeles' warm, dry climate demands windows that can withstand the sun's intensity and provide optimal insulation. Manuel's Glass offers a wide selection of energy-efficient windows designed to keep your home cool and comfortable year-round, reducing your energy bills and minimizing your carbon footprint. We are committed to providing exceptional service and quality window replacements to the diverse neighborhoods of Los Angeles.",
+        "localContext": "Los Angeles is known for its diverse architecture, from Spanish Colonial Revival homes to modern skyscrapers, and its warm, dry climate necessitates energy-efficient window solutions.",
+        "nearbyAreas": [
+          "Beverly Hills",
+          "Santa Monica",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "Manuel's Glass is dedicated to serving the window replacement needs of Pasadena homeowners. Known for its beautiful 1910s-30s Craftsman bungalows, Pasadena's architectural charm is something we deeply appreciate. We offer a wide range of window styles and materials that perfectly complement these historic homes, preserving their character while enhancing their energy efficiency and value.\n\nPasadena's warm and dry climate makes energy-efficient windows a necessity. Manuel's Glass provides window solutions designed to keep your home comfortable year-round, reducing energy consumption and saving you money. Our experienced team is committed to delivering exceptional service and expert installations throughout Pasadena.",
+        "localContext": "Pasadena is characterized by its abundance of 1910s-30s Craftsman bungalows and a warm, dry climate, making energy-efficient window replacements a priority for homeowners.",
+        "nearbyAreas": [
+          "Altadena",
+          "San Marino",
+          "South Pasadena"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "Manuel's Glass provides comprehensive window replacement services to the residents of Irvine. As a master-planned community with homes primarily built from the 1970s to the present, Irvine features a variety of architectural styles. We offer a diverse selection of window options to match any aesthetic, from contemporary designs to more traditional styles.\n\nIrvine's warm and dry climate requires durable and energy-efficient windows. Manuel's Glass offers windows that can withstand the elements while keeping your home comfortable and reducing energy costs. We are committed to providing exceptional service and expert installations to homeowners throughout Irvine.",
+        "localContext": "Irvine is a master-planned community with homes built from the 1970s to the present, and the warm, dry climate necessitates energy-efficient window solutions.",
+        "nearbyAreas": [
+          "Tustin",
+          "Newport Beach",
+          "Lake Forest"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "Manuel's Glass is proud to serve the window replacement needs of Santa Clarita. Known for its newer master-planned communities built from the 1990s to the 2020s, Santa Clarita features modern homes that benefit from energy-efficient and stylish window solutions. We offer a wide range of window styles to complement the contemporary architecture found throughout the city.\n\nSanta Clarita's warm and dry climate makes energy-efficient windows essential for maintaining a comfortable home environment. Manuel's Glass provides window options designed to reduce energy consumption, lower utility bills, and enhance the overall value of your property. We are committed to providing exceptional service and expert installations throughout Santa Clarita.",
+        "localContext": "Santa Clarita is known for its master-planned communities built from the 1990s to the 2020s, and its warm, dry climate demands energy-efficient window solutions.",
+        "nearbyAreas": [
+          "Valencia",
+          "Canyon Country",
+          "Saugus"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "Manuel's Glass is dedicated to providing top-quality window replacement services to the residents of Torrance. With a significant number of homes built in the 1950s and 60s, Torrance features a unique architectural style that we understand and appreciate. We offer a wide selection of window options that complement these post-war homes, enhancing their curb appeal and energy efficiency.\n\nTorrance's warm and dry climate requires windows that can withstand the sun's intensity and provide excellent insulation. Manuel's Glass offers energy-efficient window solutions designed to keep your home comfortable year-round, reduce energy consumption, and save you money. We are committed to providing exceptional service and expert installations throughout Torrance.",
+        "localContext": "Torrance features many 1950s-60s post-war homes, and its warm, dry climate necessitates energy-efficient window replacements.",
+        "nearbyAreas": [
+          "Redondo Beach",
+          "Carson",
+          "Gardena"
+        ]
+      },
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "Manuel's Glass is your local expert for window replacement in Long Beach. We understand the diverse architectural styles of Long Beach, from historic craftsman homes to modern beachfront properties. Our team provides tailored window solutions to enhance the beauty and efficiency of your home, no matter its style.\n\nLong Beach's coastal climate requires durable and energy-efficient windows. Manuel's Glass offers a wide selection of windows designed to withstand the elements and keep your home comfortable year-round. We are dedicated to providing exceptional service and quality craftsmanship to the Long Beach community.",
+        "localContext": "Long Beach features a mix of architectural styles and a coastal climate, making durable and energy-efficient windows essential.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Glendale",
+        "slug": "glendale-ca",
+        "state": "CA",
+        "content": "Manuel's Glass is proud to offer window replacement services to homeowners in Glendale. Glendale features a range of architectural styles, from charming bungalows to modern homes. We provide a variety of window options to complement any home design and enhance its curb appeal.\n\nGlendale's warm climate makes energy-efficient windows a smart investment. Manuel's Glass offers window solutions designed to lower your energy bills and keep your home comfortable throughout the year. Our experienced team delivers professional installations and exceptional customer service.",
+        "localContext": "Glendale's diverse architecture and warm climate make energy-efficient and aesthetically pleasing window replacements a priority for homeowners.",
+        "nearbyAreas": [
+          "Burbank",
+          "Pasadena",
+          "La Cañada Flintridge"
+        ]
+      },
+      {
+        "city": "Burbank",
+        "slug": "burbank-ca",
+        "state": "CA",
+        "content": "Manuel's Glass provides expert window replacement services to the residents of Burbank. Known as the 'Media Capital of the World,' Burbank features a mix of residential styles. We offer a variety of window options to enhance the beauty and functionality of your home.\n\nBurbank's warm climate requires energy-efficient windows to keep your home comfortable and reduce energy costs. Manuel's Glass offers window solutions designed to meet these needs, providing both style and performance. Our team is committed to delivering exceptional service and quality installations.",
+        "localContext": "Burbank's mix of residential styles and warm climate necessitate energy-efficient and aesthetically pleasing window replacements.",
+        "nearbyAreas": [
+          "Glendale",
+          "North Hollywood",
+          "Studio City"
+        ]
+      },
+      {
+        "city": "Carson",
+        "slug": "carson-ca",
+        "state": "CA",
+        "content": "Manuel's Glass is committed to providing quality window replacement services to the Carson community. Carson features a variety of home styles, and we offer window options to complement any architectural design, enhancing both the appearance and energy efficiency of your home.\n\nCarson's climate demands windows that can withstand the sun and provide optimal insulation. Manuel's Glass offers a range of energy-efficient windows designed to keep your home comfortable and reduce your energy bills. We are dedicated to delivering exceptional service and expert installations throughout Carson.",
+        "localContext": "Carson's varied home styles and climate make energy-efficient and stylish window replacements important for homeowners.",
+        "nearbyAreas": [
+          "Torrance",
+          "Long Beach",
+          "Dominguez Hills"
+        ]
+      },
+      {
+        "city": "Lakewood",
+        "slug": "lakewood-ca",
+        "state": "CA",
+        "content": "Manuel's Glass is proud to offer professional window replacement services in Lakewood. Lakewood is known for its well-maintained homes, many of which were built in the mid-20th century. We offer a variety of window styles that complement these classic homes, enhancing their curb appeal and energy efficiency.\n\nLakewood's climate makes energy-efficient windows a valuable investment. Manuel's Glass provides window solutions designed to reduce energy consumption and keep your home comfortable year-round. Our experienced team is committed to providing exceptional service and quality installations to the Lakewood community.",
+        "localContext": "Lakewood's classic mid-century homes and climate make energy-efficient and stylish window replacements important for homeowners.",
+        "nearbyAreas": [
+          "Long Beach",
+          "Bellflower",
+          "Cerritos"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "David B.",
+        "rating": 5,
+        "service": "Residential Window Replacement",
+        "text": "Manuel's Glass did an excellent job replacing all the windows in my Craftsman bungalow in Belmont Heights. They were professional, efficient, and the new windows look fantastic. I can already feel the difference in terms of noise reduction and energy efficiency. Highly recommend!",
+        "date": "2024-08-15"
+      },
+      {
+        "name": "Maria S.",
+        "rating": 4,
+        "service": "Window Repair",
+        "text": "I had a cracked window pane in my living room, and Manuel's Glass was able to repair it quickly and affordably. The technician was friendly and knowledgeable, and the repair was seamless. I'm very happy with the service.",
+        "date": "2024-09-02"
+      },
+      {
+        "name": "John K.",
+        "rating": 5,
+        "service": "Commercial Window Replacement",
+        "text": "Manuel's Glass replaced the storefront windows at my business in downtown Long Beach. They did a great job coordinating the project and minimizing disruption to my business. The new windows look great and have significantly improved the appearance of my storefront.",
+        "date": "2024-10-10"
+      },
+      {
+        "name": "Lisa R.",
+        "rating": 5,
+        "service": "Custom Window Installation",
+        "text": "We had Manuel's Glass install a custom bay window in our kitchen, and it's absolutely stunning. The craftsmanship is impeccable, and it has completely transformed the look and feel of our kitchen. The team was great to work with from start to finish.",
+        "date": "2024-11-22"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 4,
+        "service": "Glass Door Installation",
+        "text": "Manuel's Glass installed a new sliding glass door in my patio, and it's made a huge difference in terms of natural light and access to my backyard. The installation was quick and efficient, and the door looks great.",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Sarah L.",
+        "rating": 5,
+        "service": "Emergency Window Services",
+        "text": "I had a break-in at my home in the middle of the night, and Manuel's Glass responded immediately. They boarded up the broken window and installed a new one the next day. I was so grateful for their quick and professional service.",
+        "date": "2025-01-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Manuel's Glass | Long Beach Window Replacement",
+        "description": "Long Beach's trusted window replacement and repair experts. Quality installation, energy-efficient windows, and reliable service. Free quotes."
+      },
+      "about": {
+        "title": "About Manuel's Glass | Long Beach Window Experts",
+        "description": "Learn about Manuel's Glass, your local Long Beach window company. Family-owned, dedicated to quality, and committed to the community."
+      },
+      "services": {
+        "title": "Window Services | Manuel's Glass Long Beach CA",
+        "description": "Comprehensive window services in Long Beach: replacement, repair, custom installation, glass doors, and emergency services. Expert craftsmanship."
+      },
+      "contact": {
+        "title": "Contact Manuel's Glass | Long Beach Window Company",
+        "description": "Contact Manuel's Glass for a free window replacement or repair estimate in Long Beach. Call us today!"
+      },
+      "reviews": {
+        "title": "Manuel's Glass Reviews | Long Beach CA",
+        "description": "Read reviews from satisfied Manuel's Glass customers in Long Beach. See why we're the trusted choice for window replacement and repair."
+      },
+      "service-areas": {
+        "title": "Service Areas | Manuel's Glass Long Beach CA",
+        "description": "Manuel's Glass provides window replacement and repair services throughout Long Beach and surrounding areas. Check our service area coverage."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "residential-window-replacement": "/images/service-residential-window-replacement.webp",
+      "commercial-window-replacement": "/images/service-commercial-window-replacement.webp",
+      "window-repair": "/images/service-window-repair.webp",
+      "custom-window-installation": "/images/service-custom-window-installation.webp",
+      "glass-door-installation": "/images/service-glass-door-installation.webp",
+      "emergency-window-services": "/images/service-emergency-window-services.webp"
+    },
+    "servicesResponsive": {
+      "residential-window-replacement": {
+        "src": "/images/service-residential-window-replacement.webp",
+        "srcset": "/images/service-residential-window-replacement-400w.webp 400w, /images/service-residential-window-replacement-800w.webp 800w, /images/service-residential-window-replacement-1200w.webp 1200w, /images/service-residential-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-window-replacement": {
+        "src": "/images/service-commercial-window-replacement.webp",
+        "srcset": "/images/service-commercial-window-replacement-400w.webp 400w, /images/service-commercial-window-replacement-800w.webp 800w, /images/service-commercial-window-replacement-1200w.webp 1200w, /images/service-commercial-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-repair": {
+        "src": "/images/service-window-repair.webp",
+        "srcset": "/images/service-window-repair-400w.webp 400w, /images/service-window-repair-800w.webp 800w, /images/service-window-repair-1200w.webp 1200w, /images/service-window-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-window-installation": {
+        "src": "/images/service-custom-window-installation.webp",
+        "srcset": "/images/service-custom-window-installation-400w.webp 400w, /images/service-custom-window-installation-800w.webp 800w, /images/service-custom-window-installation-1200w.webp 1200w, /images/service-custom-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "glass-door-installation": {
+        "src": "/images/service-glass-door-installation.webp",
+        "srcset": "/images/service-glass-door-installation-400w.webp 400w, /images/service-glass-door-installation-800w.webp 800w, /images/service-glass-door-installation-1200w.webp 1200w, /images/service-glass-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-window-services": {
+        "src": "/images/service-emergency-window-services.webp",
+        "srcset": "/images/service-emergency-window-services-400w.webp 400w, /images/service-emergency-window-services-800w.webp 800w, /images/service-emergency-window-services-1200w.webp 1200w, /images/service-emergency-window-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

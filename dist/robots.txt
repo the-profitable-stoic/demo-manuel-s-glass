@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-manuel-s-glass.dream-surge.com/sitemap-index.xml
